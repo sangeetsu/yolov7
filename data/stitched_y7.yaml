@@ -1,0 +1,17 @@
+train: /home/sangeetsu/yolov7/data/stitched_y7/train
+test: /home/sangeetsu/yolov7/data/stitched_y7/test
+val: /home/sangeetsu/yolov7/data/stitched_y7/val
+# Number of Classes
+nc: 1 
+# Class Names
+names: ['vehicle']
+
+
+# train: /home/sangeetsu/yolov7/data/stitched_y7/train
+# test: /home/sangeetsu/yolov7/data/stitched_y7/test
+# valid: /home/sangeetsu/yolov7/data/stitched_y7/val
+# #Classes
+# nc: 1 # replace classes count 
+# #classes names
+# #replace all class names list with your custom classes
+# namesnames: ['vehicle']
